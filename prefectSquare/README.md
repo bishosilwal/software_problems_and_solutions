@@ -6,13 +6,13 @@ The signature of the function is
 Examples
 
 
-			n 			|			next perfect square 
+n | next perfect square 
 ---|---
-6						|			9													
+6	|	9													
 ---|---
-36			    |				49								
+36 |	49								
 ---|---
-	0						|					1								
+0	|	1								
 ---|---
-	-5					|						0								
+-5|0								
 ---|---
