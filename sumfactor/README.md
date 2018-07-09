@@ -10,6 +10,8 @@ If you are programming in C++ or C, the function signature is
 	int sumFactor(int a[ ], int len)  where len is the number of elements in the array.
 
 Examples:
+
+
 if a is | return | reason
 ---|---|---
 {3, 0, 2, -5, 0} | 2 | The sum of array is 0 and 0 occurs 2 times
